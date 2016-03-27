@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="AppTest\AppTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.LGOTMS1f0bb626" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppTest\MainActivity.cs">
+    <Files>
+      <File FileName="AppTest\MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\AppTest.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\mscorlib.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\System.Core.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\System.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\System.Xml.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\USUARIO\Documents\Projects\AppTest\AppTest\obj\Debug\assemblies\System.ServiceModel.Internals.dll
